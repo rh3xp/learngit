@@ -1,0 +1,6 @@
+# readme
+git is a version controll system (VCS).
+to initialise a new repository, type
+git init in the command line. - .git folder to manage all the changes
+
+
